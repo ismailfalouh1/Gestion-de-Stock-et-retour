@@ -109,11 +109,6 @@
                 <title>Swagger Api Documentation for Gestion de stock application</title>
                 <version>${project.version}</version>
                 <description>Swagger Api documentation for Gestion de stock application</description>
-                <contact>
-                  <email>ismail.social@gmail.com</email>
-                  <name>Ali ismail</name>
-                  <url>https://www.udemy.com/user/ismail-ali/</url>
-                </contact>
               </info>
               <outputPath>${project.build.directory}</outputPath>
               <outputFormats>json</outputFormats>
